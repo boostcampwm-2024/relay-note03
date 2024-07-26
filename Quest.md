@@ -33,10 +33,15 @@
 👥 선택한 퀘스트
 
 ### J086 : 주간학습정리, 음악감상하기
+
 - 주간 학습 정리 : 지난 주에 회고를 남기면서 한 주간 배운 내용 중에 학습 내용 정리에 미처 담지 못한 부분을 정리했습니다.
 - 음악 감상 하기 : 저는 새벽까지 미션 수행했던 적이 많은데, 잔잔한 인디음악을 많이 들었습니다.
 
 ### J263 : `집중` 1 : , `휴식` : 2
+
+![image](https://github.com/user-attachments/assets/b3a2ce74-b875-43b1-bcc5-66a15cc3cde3)
+![image](https://github.com/user-attachments/assets/d3bcfb8f-aed4-4584-80dd-93c9311deb4a)
+![image](https://github.com/user-attachments/assets/9ed7e7e4-0f23-4119-a07d-ea576d0e5ada)
 
 ### J197 : 다이어그램 작성하기, 최애 음식 즐기기
 
@@ -49,7 +54,8 @@
 ### J137 : `집중` : CS질문에 답하기, `휴식` : 음악 감상하기
 
 ### J015 : 주간학습 정리,최애 음식 즐기기,여행 계획 세우기
-## J015 
+
+## J015
 
 #### 여행계획 세우기
 
@@ -62,4 +68,3 @@
 ![image](https://github.com/user-attachments/assets/4940d659-699e-44b5-9beb-cf32df016250)
 
 - 최애음식은 아니지만 요즘 인기있는 두바이 초콜릿을 먹어봤습니다. 저에게는 생각보다 별로였던거 같아요 26,000원 어치는 아니였습니다 ㅎㅎ
-
