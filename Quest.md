@@ -61,6 +61,10 @@
 
 ### J137 : `집중` : CS질문에 답하기, `휴식` : 음악 감상하기
 
+- 집중 : https://respected-ox-7ea.notion.site/1-841f6766d2f54fe38927b16c2cdd7586?pvs=4
+
+- 휴식 : https://www.youtube.com/watch?v=WWULS79hFYE
+
 ### J015 : 주간학습 정리,최애 음식 즐기기,여행 계획 세우기
 
 ## J015
