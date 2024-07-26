@@ -42,9 +42,11 @@
 ### J194 : 다이어그램 작성하기, 최애 음식 즐기기
 
 - 다이어그램(그림) 그리기  
-  ![image](https://gist.github.com/user-attachments/assets/0c85dbc4-50fe-49df-ba64-7788dde17a1f)
+  ![KakaoTalk_20240726_015202362_01](https://github.com/user-attachments/assets/d4e98bd6-7f70-4f7a-b2d2-d93ecd459d0b)
+
 - 최애 음식 즐기기  
-  ![image](https://gist.github.com/user-attachments/assets/37ae34df-3320-418a-8a4f-36746549583b)
+  ![image](https://github.com/user-attachments/assets/65681a2c-274f-4b8a-af8a-0fa759f5b81e)
+
 
 ### S012 : 음악 감상하기, 다이어그램 작성하기
 
