@@ -41,10 +41,10 @@
 
 ### J194 : 다이어그램 작성하기, 최애 음식 즐기기
 
-- 다이어그램(그림) 그리기  
+- 다이어그램(그림) 그리기
   ![KakaoTalk_20240726_015202362_01](https://github.com/user-attachments/assets/d4e98bd6-7f70-4f7a-b2d2-d93ecd459d0b)
 
-- 최애 음식 즐기기  
+- 최애 음식 즐기기
   ![image](https://github.com/user-attachments/assets/65681a2c-274f-4b8a-af8a-0fa759f5b81e)
 
 
@@ -55,6 +55,10 @@
 - 함께 하니깐 더 이해도 잘되고 구현할 때도 큰 도움을 받았던 것 같습니다!
 
 ### J137 : `집중` : CS질문에 답하기, `휴식` : 음악 감상하기
+
+- 집중 : https://respected-ox-7ea.notion.site/1-841f6766d2f54fe38927b16c2cdd7586?pvs=4
+
+- 휴식 : https://www.youtube.com/watch?v=WWULS79hFYE
 
 ### J015 : 주간학습 정리,최애 음식 즐기기,여행 계획 세우기
 
