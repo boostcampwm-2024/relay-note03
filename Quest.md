@@ -47,13 +47,12 @@
 ### **S049 이민영**: 다이어그램 작성하기 / 최애 음식 즐기기
 1. 다이어그램 작성하기
 
-Day 13
-![IMG_2621](https://gist.github.com/user-attachments/assets/b0fef05c-fa73-4375-8c31-f0eb12061f1c)
+Day 13    
 
+<img width="700" alt="img1" src="https://github.com/user-attachments/assets/2589fbf1-4c6d-4d40-89a9-3b02956bcf27">
 
 2. 최애 음식 즐기기
-![IMG_2620](https://gist.github.com/user-attachments/assets/25026a4e-041b-4104-ba8a-9f0bcc8a1ebc)
-
+<img width="700" alt="img2" src="https://github.com/user-attachments/assets/394fd678-ef67-4ab0-83a8-1e0d96dbfdba">
 
 
 
@@ -64,7 +63,7 @@ Day11
 </br>
 <img width="500" alt="스크린샷 2024-08-02 오전 11 56 41" src="https://github.com/user-attachments/assets/c7756c0e-b8a5-4f41-8de3-420b963650c3">
 </br>
-Day12
+Day13
 </br>
 <img width="500" alt="스크린샷 2024-08-02 오전 11 57 03" src="https://github.com/user-attachments/assets/2d5fff1a-97e9-422f-8948-f2205f979a9e">
 </br>
