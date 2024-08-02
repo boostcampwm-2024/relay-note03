@@ -57,7 +57,7 @@ Day12
 </br>
 <img width="500" alt="스크린샷 2024-08-02 오전 11 57 03" src="https://github.com/user-attachments/assets/2d5fff1a-97e9-422f-8948-f2205f979a9e">
 </br>
-3. 음악 감상하기
+2. 음악 감상하기
 좋아하는 가수인 정승환과 콜드플레이 노래 감상했습니다.
 </br>
 
