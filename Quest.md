@@ -55,13 +55,29 @@
 
 👥 선택한 퀘스트
 
+#### `3주차`
+
+### S064 제민우: 한 번이라도 취미생활 즐기기
+
+### J058 김정욱: 눈 감고 명상하기
+
+### J051 김영현: 음악 감상하기
+
+### J287 김태현: 챌린지 후 주말 계획 세우기
+
+### J095 문지후: 여행 계획 알차게 세우기, 최애 음식 많이 먹기
+
+
+
+👥 선택한 퀘스트
+
 #### `2주차`
 
 ### J159 유건욱: 주간 학습 정리 / 최애 음식 즐기기
 
 1. 주간 학습 정리 완료~!
 2. 최애 음식 즐기기
-   <img src="https://i.ibb.co/XJDy0Hk/82-F15801-45-B1-48-FB-97-ED-C4-EE0211-F946-1-105-c.jpg" alt="82-F15801-45-B1-48-FB-97-ED-C4-EE0211-F946-1-105-c" border="0">
+   <img src="https://i.ibb.co/XJDy0Hk/82-F15801-45-B1-48-FB-97-ED-C4-EE0211-F946-1-105-c.jpg" width = 50%>
 
 ### **S049 이민영**: 다이어그램 작성하기 / 최애 음식 즐기기
 
@@ -69,7 +85,7 @@
 
 Day 13
 
-<img width="700" alt="img1" src="https://github.com/user-attachments/assets/2589fbf1-4c6d-4d40-89a9-3b02956bcf27">
+<img width=90% alt="img1" src="https://github.com/user-attachments/assets/2589fbf1-4c6d-4d40-89a9-3b02956bcf27">
 
 2. 최애 음식 즐기기
    <img width="700" alt="img2" src="https://github.com/user-attachments/assets/394fd678-ef67-4ab0-83a8-1e0d96dbfdba">
@@ -80,11 +96,11 @@ Day 13
    </br>
    Day11
    </br>
-   <img width="500" alt="스크린샷 2024-08-02 오전 11 56 41" src="https://github.com/user-attachments/assets/c7756c0e-b8a5-4f41-8de3-420b963650c3">
+   <img width="500" alt="스크린샷 2024-08-02 오전 11 56 41" src="https://github.com/user-attachments/assets/c7756c0e-b8a5-4f41-8de3-420b963650c3">
    </br>
    Day13
    </br>
-   <img width="500" alt="스크린샷 2024-08-02 오전 11 57 03" src="https://github.com/user-attachments/assets/2d5fff1a-97e9-422f-8948-f2205f979a9e">
+   <img width="500" alt="스크린샷 2024-08-02 오전 11 57 03" src="https://github.com/user-attachments/assets/2d5fff1a-97e9-422f-8948-f2205f979a9e">
    </br>
 2. 음악 감상하기
    좋아하는 가수인 정승환과 콜드플레이 노래 감상했습니다.
