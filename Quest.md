@@ -48,6 +48,7 @@
 
 ### **J221 정동교**: 다이어그램 작성하기 / 음악 감상하기
 1. 다이어그램 작성하기
+</br>
 Day11
 </br>
 <img width="500" alt="스크린샷 2024-08-02 오전 11 56 41" src="https://github.com/user-attachments/assets/c7756c0e-b8a5-4f41-8de3-420b963650c3">
@@ -56,7 +57,7 @@ Day12
 </br>
 <img width="500" alt="스크린샷 2024-08-02 오전 11 57 03" src="https://github.com/user-attachments/assets/2d5fff1a-97e9-422f-8948-f2205f979a9e">
 </br>
-2. 음악 감상하기
+3. 음악 감상하기
 좋아하는 가수인 정승환과 콜드플레이 노래 감상했습니다.
 </br>
 
