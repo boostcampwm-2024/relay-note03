@@ -45,6 +45,17 @@
 ### J159 유건욱**: 주간 학습 정리 / 최애 음식 즐기기
 
 ### **S049 이민영**: 다이어그램 작성하기 / 최애 음식 즐기기
+1. 다이어그램 작성하기
+
+Day 13
+![IMG_2621](https://gist.github.com/user-attachments/assets/b0fef05c-fa73-4375-8c31-f0eb12061f1c)
+
+
+2. 최애 음식 즐기기
+![IMG_2620](https://gist.github.com/user-attachments/assets/25026a4e-041b-4104-ba8a-9f0bcc8a1ebc)
+
+
+
 
 ### **J221 정동교**: 다이어그램 작성하기 / 음악 감상하기
 1. 다이어그램 작성하기
