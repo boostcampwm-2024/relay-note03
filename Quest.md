@@ -48,7 +48,6 @@
 
 ### **J221 정동교**: 다이어그램 작성하기 / 음악 감상하기
 1. 다이어그램 작성하기
-</br>
 Day11
 </br>
 <img width="500" alt="스크린샷 2024-08-02 오전 11 56 41" src="https://github.com/user-attachments/assets/c7756c0e-b8a5-4f41-8de3-420b963650c3">
